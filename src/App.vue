@@ -56,7 +56,7 @@ export default {
 </script>
 
   <template>
-    <h1>Hello, Vue.js!</h1>
+    <!-- <h1>Hello, Vue.js!</h1> -->
     <div id="app">
       <AppHeader />
 
